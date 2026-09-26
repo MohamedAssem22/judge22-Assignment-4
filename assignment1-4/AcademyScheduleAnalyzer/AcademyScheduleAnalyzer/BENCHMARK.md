@@ -1,5 +1,5 @@
-![alt text](image.png)
-![alt text](image-1.png)
+<img width="1458" height="719" alt="image" src="https://github.com/user-attachments/assets/7e7816cc-77f7-48ed-bc16-3266bf9410cf" />
+
 # Benchmark Analysis: String Concatenation vs StringBuilder
 
 This benchmark compares the performance and memory efficiency of repeated string concatenation using the standard `+` operator (or `+=`) versus `StringBuilder` in C#.
